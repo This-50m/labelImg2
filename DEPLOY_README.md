@@ -15,7 +15,7 @@ pyinstaller==4.10
 执行命令
 
 ```
-git clone https://github.com/This-50m/labelImg2.git > labelImg2
+git clone https://github.com/This-50m/labelImg2.git
 cd labelImg2
 pip install -U -r exe_requirements.txt
 pyinstaller to_exe.spec
